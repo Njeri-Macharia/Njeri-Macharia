@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Njeri-Macharia
-- 👀 I’m interested in .machine learning, programming and artificial intelligence..
-- 🌱 I’m currently learning .computer science specifically programming..
+- 👀 I’m interested in machine learning|artificial intelligence
+- 🌱 I’m currently learning computer science and python 
 - 💞️ I’m looking to collaborate on solving life problems through technology
 - 📫 How to reach me mercymachariya@gmail.com
 
